@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\bin\Debug\net6.0\Queue_Collection.exe
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\bin\Debug\net6.0\Queue_Collection.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\bin\Debug\net6.0\Queue_Collection.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\bin\Debug\net6.0\Queue_Collection.dll
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\bin\Debug\net6.0\Queue_Collection.pdb
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.dll
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\refint\Queue_Collection.dll
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.pdb
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\Queue_Collection.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Queue_Collection\Queue_Collection\obj\Debug\net6.0\ref\Queue_Collection.dll
